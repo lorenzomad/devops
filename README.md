@@ -1,3 +1,6 @@
 # devops
 Devops work with azure
-##ciao
+
+
+
+[![CI](https://github.com/lorenzomad/devops/actions/workflows/main.yml/badge.svg)](https://github.com/lorenzomad/devops/actions/workflows/main.yml)
